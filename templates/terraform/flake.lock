@@ -100,14 +100,17 @@
         "utils": "utils"
       },
       "locked": {
-        "lastModified": 1772016789,
-        "narHash": "sha256-fo3w/NRiiYX7x2MQ3FxPNc6JFL4RgLAhhvg9Y0MPyEE=",
-        "path": "/home/kuri/Apps/git/gfriloux/nix-checks",
-        "type": "path"
+        "lastModified": 1772016787,
+        "narHash": "sha256-uVIKxGKHf2nAghfNlfo+zDHauWFwWnHexIG+mpyiL6o=",
+        "owner": "gfriloux",
+        "repo": "nix-checks",
+        "rev": "6a9d4cded9bf9d53da6b31a0542cc0a4a4a10d92",
+        "type": "github"
       },
       "original": {
-        "path": "/home/kuri/Apps/git/gfriloux/nix-checks",
-        "type": "path"
+        "owner": "gfriloux",
+        "repo": "nix-checks",
+        "type": "github"
       }
     },
     "nix-shells": {
@@ -119,14 +122,17 @@
         "snowfall-lib": "snowfall-lib"
       },
       "locked": {
-        "lastModified": 1772027179,
-        "narHash": "sha256-fKk4oA3ULkNIDe0jzEQnYuqnamD5Cc2nErTzGnECcU4=",
-        "path": "/home/kuri/Apps/git/gfriloux/nix-shells",
-        "type": "path"
+        "lastModified": 1772028859,
+        "narHash": "sha256-I5sM2TdfddGjiVVQePhkWFwhyRbBRiqSIVNKdKGo7bA=",
+        "owner": "gfriloux",
+        "repo": "nix-shells",
+        "rev": "3afd5e3f51f5285b471422b32222c62c29325627",
+        "type": "github"
       },
       "original": {
-        "path": "/home/kuri/Apps/git/gfriloux/nix-shells",
-        "type": "path"
+        "owner": "gfriloux",
+        "repo": "nix-shells",
+        "type": "github"
       }
     },
     "nixpkgs": {

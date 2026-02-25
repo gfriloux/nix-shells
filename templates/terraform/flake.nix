@@ -4,11 +4,11 @@
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
     nix-checks = {
-      url = "/home/kuri/Apps/git/gfriloux/nix-checks";
+      url = "github:gfriloux/nix-checks";
       inputs.nixpkgs.follows = "nixpkgs";
     };
     nix-shells = {
-      url = "/home/kuri/Apps/git/gfriloux/nix-shells";
+      url = "github:gfriloux/nix-shells";
       inputs.nixpkgs.follows = "nixpkgs";
     };
     utils = {
