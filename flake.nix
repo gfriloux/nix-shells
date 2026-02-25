@@ -18,14 +18,13 @@
       snowfall = {
         namespace = "nix-shells";
 
-        modules = [
-          ./snowfall/modules/precommit
-        ];
-
         meta = {
           name = "nix-shells";
           title = "nix-shells";
         };
+      };
+      templates = {
+        terraform.description = "Basic tooling to work terraform modules the way i want.";
       };
     };
 }
