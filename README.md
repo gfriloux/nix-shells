@@ -4,6 +4,13 @@
 
 collection of templates to work on various project types.
 
+### ansible
+
+```
+nix flake init --template github:gfriloux/nix-shells#ansible
+```
+
+
 ### terraform
 
 ```
