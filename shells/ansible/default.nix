@@ -6,6 +6,7 @@
 }: let
   pkgs = import inputs.nixpkgs {
     inherit system;
+    overlays = [inputs.ansible-recap.overlays.default];
   };
   pkgs-ansible = import inputs.nixpkgs2505 {
     inherit system;
