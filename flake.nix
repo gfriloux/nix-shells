@@ -3,6 +3,7 @@
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
+    nixpkgs2505.url = "github:NixOS/nixpkgs/nixos-25.05";
     snowfall-lib = {
       url = "github:snowfallorg/lib";
       inputs.nixpkgs.follows = "nixpkgs";
@@ -24,7 +25,8 @@
         };
       };
       templates = {
-        terraform.description = "Basic tooling to work terraform modules the way i want.";
+        ansible.description = "Basic tooling to work with ansible the way i want.";
+        terraform.description = "Basic tooling to work with terraform the way i want.";
       };
     };
 }
