@@ -1,0 +1,8 @@
+.direnv
+.ansible
+.vagrant
+*.crt
+*.key
+*.srl
+*.csr
+.pre-commit-config.yaml
