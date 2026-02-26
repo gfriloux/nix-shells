@@ -194,11 +194,11 @@
         "utils": "utils"
       },
       "locked": {
-        "lastModified": 1772113262,
-        "narHash": "sha256-+GX0tNpITxBRtwboP4cHlO4XzNovsGfxUwYFlYDobTw=",
+        "lastModified": 1772123352,
+        "narHash": "sha256-aZswwPZpa6TF1DTzJmUYBJEnsxDrXanncWDSqYD4exA=",
         "owner": "gfriloux",
         "repo": "nix-checks",
-        "rev": "357199f0b4acea29abe74ab2db686643683c31b1",
+        "rev": "ab436c2fb20f175f73c9f619519048a822517be2",
         "type": "github"
       },
       "original": {
