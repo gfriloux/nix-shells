@@ -30,9 +30,6 @@ mkShell {
     pkgs.rbw
     pkgs.pinentry-curses
     pkgs.openssh_gssapi
-    pkgs.tflint
-    pkgs.tfsec
-    pkgs.terraform
     pkgs.gum
     pkgs.ansible-recap
     pkgs.pre-commit
