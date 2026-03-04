@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+mkdocs = "*"
+mkdocs-material = "*"
+mkdocs-awesome-pages-plugin = "*"
+mkdocs-git-revision-date-localized-plugin = "*"
+mkdocs-macros-plugin = "*"
+mkdocs-pdf-export-plugin = "*"
+mkdocs-diagrams = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
