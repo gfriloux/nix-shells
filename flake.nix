@@ -31,6 +31,7 @@
       templates = {
         ansible.description = "Basic tooling to work with ansible the way i want.";
         mdbook.description = "Basic tooling to work with mdBook the way i want.";
+        mkdocs.description = "Basic tooling to work with mkdocs the way i want.";
         terraform.description = "Basic tooling to work with terraform the way i want.";
       };
     };
