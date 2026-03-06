@@ -8,8 +8,7 @@
       inputs.nixpkgs.follows = "nixpkgs";
     };
     nix-shells = {
-      #url = "github:gfriloux/nix-shells";
-      url = "/home/kuri/Apps/git/gfriloux/nix-shells";
+      url = "github:gfriloux/nix-shells";
       inputs.nixpkgs.follows = "nixpkgs";
     };
     utils = {

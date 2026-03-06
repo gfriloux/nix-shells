@@ -218,14 +218,17 @@
         "snowfall-lib": "snowfall-lib_2"
       },
       "locked": {
-        "lastModified": 1772619654,
-        "narHash": "sha256-VchI+jxZJiyiFha9kp7LKTJglUwq5m2llg4JzoN2Y+s=",
-        "path": "/home/kuri/Apps/git/gfriloux/nix-shells",
-        "type": "path"
+        "lastModified": 1772637884,
+        "narHash": "sha256-Laz3MiYfdTM/VEr+ByF9AnX7vgJeJd6SkpW/WHvd+t4=",
+        "owner": "gfriloux",
+        "repo": "nix-shells",
+        "rev": "f1670eb0284467b99b8900ac0854ce1d788ca5bc",
+        "type": "github"
       },
       "original": {
-        "path": "/home/kuri/Apps/git/gfriloux/nix-shells",
-        "type": "path"
+        "owner": "gfriloux",
+        "repo": "nix-shells",
+        "type": "github"
       }
     },
     "nixpkgs": {
