@@ -33,6 +33,7 @@
         mdbook.description = "Basic tooling to work with mdBook the way i want.";
         mkdocs.description = "Basic tooling to work with mkdocs the way i want.";
         terraform.description = "Basic tooling to work with terraform the way i want.";
+        zensical.description = "Basic tooling to work with zensical the way i want.";
       };
     };
 }
