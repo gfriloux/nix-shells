@@ -21,3 +21,9 @@ nix flake init --template github:gfriloux/nix-shells#mdbook
 ```
 nix flake init --template github:gfriloux/nix-shells#terraform
 ```
+
+### zensical
+
+```
+nix flake init --template github:gfriloux/nix-shells#zensical
+```
