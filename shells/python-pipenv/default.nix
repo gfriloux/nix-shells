@@ -19,7 +19,7 @@ mkShell {
   ];
 
   shellHook = ''
-    echo "[zensical-shell] Ready."
+    echo "[pipenv-shell] Ready."
 
     if [ ! -f .pre-commit-config.yaml ]; then
       echo "Generating .pre-commit-config.yaml..."
